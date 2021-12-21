@@ -52,7 +52,7 @@ Ether Capital is a publicly traded company, listed on the NEO Exchange under the
 -   Experience with running ETH2.0 validator and beacon chain nodes (Lighthouse, Prysm, Teku, etc)
 -   (Bonus) Lido or RocketPool node operator
 -   (Bonus) Code contributor of any ETH2.0 software stack
--   (Bonus) Finished Ethereum 2.0: Serenity Study Master: <https://ethereumstudymaster.com/courses/ethereum-2-0-studymaster-program/>
+-   (Bonus) Finished Ethereum 2.0: Serenity [Study Master](https://ethereumstudymaster.com/courses/ethereum-2-0-studymaster-program)
 -   Strong passion for Ethereum and blockchain technology
 
 ## Compensation
@@ -62,3 +62,4 @@ Ether Capital is a publicly traded company, listed on the NEO Exchange under the
 -   Working for a publicly traded company (ETHC, known for helping launch the world's first Bitcoin and Ethereum ETFs)
 -   Remote first teams, task-based with flexible hours
 -   One of the first 10 employees
+
