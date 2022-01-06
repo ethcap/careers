@@ -8,13 +8,13 @@ If you are interested in scaling up your career while helping the Ethereum netwo
 
 This is a full-time remote-first position, with team members in Toronto and Montreal, Canada.
 
-You will report to the Chief Technology Officer and work closely with the whole team. It is crucial that you are comfortable working with an unstructured environment and self motivated to seek out problems and solutions while multitasking.
+You will report to the Chief Technology Officer and work closely with the whole team. It is crucial that you are comfortable working in an unstructured environment and self motivated to seek out problems and solutions while multitasking.
 
 ### Company mission
 
 [Ether Capital](https://www.ethcap.co/) strives to be the single biggest Ether (ETH) accumulator in the capital markets. We plan to generate an attractive yield off our balance by participating in Ethereum network infrastructure. We intend to use the net proceeds to develop unique IP for the crypto ecosystem and traditional finance.
 
-Ether Capital is a publicly traded company, listed on the NEO Exchange under the ticker "[ETHC](https://www.neo.inc/en/live/security-activity/ETHC)".
+Ether Capital is a publicly traded company based in Toronto, listed on the NEO Exchange under the ticker "[ETHC](https://www.neo.inc/en/live/security-activity/ETHC)".
 
 <img src="./ethcap.jpeg" alt="drawing" width="200"/>
 
