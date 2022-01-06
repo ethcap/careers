@@ -21,7 +21,7 @@ Ether Capital is a publicly traded company based in Toronto, listed on the NEO E
 
 ## Responsibilities
 
--   Manage and monitor cloud & Linux server administration (AWS, Docker)
+-   Manage and monitor cloud infrastructure & Linux server administration (AWS, Docker)
 -   Deployment automation and documentation
 -   Design and implement low-latency, high-availability staking infrastructure
 -   R&D on the recent alpha releases (PoS, Beacon chain merge and post-merge tooling)
@@ -62,4 +62,11 @@ Ether Capital is a publicly traded company based in Toronto, listed on the NEO E
 -   Working for a publicly traded company (ETHC, known for helping launch the world's first Bitcoin and Ethereum ETFs)
 -   Remote first teams, task-based with flexible hours
 -   One of the first 10 employees
+
+## How to apply
+Please send an email to `jobs@ethcap.co` and include:
+
+- CV / Resume / Website
+- Socials (Twitter, Linkedin, Github, etc)
+- A paragraph on why this position and why you (a.k.a cover letter)
 
