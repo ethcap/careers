@@ -60,7 +60,7 @@ Ether Capital is a publicly traded company based in Toronto, listed on the NEO E
 -   Salary: $100.69K+ 
 -   Stock options and bonus
 -   Working for a publicly traded company (ETHC, known for helping launch the world's first Bitcoin and Ethereum ETFs)
--   Remote first teams, task-based with flexible hours
+-   Remote first team (Canadian residence preferred), task-based with flexible hours
 -   One of the first 10 employees
 
 ## How to apply
