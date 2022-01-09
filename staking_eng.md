@@ -35,19 +35,20 @@ Ether Capital is a publicly traded company based in Toronto, listed on the NEO E
 -   1+ years of experience in blockchain ecosystem 
 -   Develop a deep understanding and expertise on the technical level of the ETH2 protocol (such as validation, slashing, network edge cases).
 -   Maintain awareness of the current and upcoming protocol and client upgrades, EIPs, and post-merge changes
--   Experience working in high uptime 24/7 environments
--   Knowledge of Linux and Docker deployment, configuration and resource monitoring/identifying bottlenecks
+-   Experience working in high uptime 24/7 environments 
+-   Knowledge of Linux and Docker deployment, configuration and resource monitoring/identifying bottlenecks (Kubernetes)
 -   Significant experience with 1+ system administration scripting languages (Python, Shell script)
 -   Experience with Node.JS/Typescript and RESTful API design
 -   Strong understanding of security best practices
 -   Open Source and Crypto hacker (Git, Version control, cryptography fundamentals, etc)
 -   Familiarity with decentralized finance (DeFi) products 
--   (Bonus) Experience with Golang, Kubernetes, and Kafka
+-   (Bonus) Experience with Golang, and Kafka
 
 
 ## Requirements
 
 -   Excellent communication skills in English
+-   Significant experience with Docker and Kubernetes
 -   Experience with running different Ethereum nodes (Geth, OpenEthereum, Erigon, etc)
 -   Experience with running ETH2.0 validator and beacon chain nodes (Lighthouse, Prysm, Teku, etc)
 -   (Bonus) Lido or RocketPool node operator
