@@ -1,3 +1,8 @@
+---
+layout: default_noheader
+---
+
+
 - [DevOps (Staking) Engineer](./staking_eng.md)
 - [Director of Finance](https://www.linkedin.com/jobs/view/2871077092)
 

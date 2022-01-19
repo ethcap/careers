@@ -1,23 +1,18 @@
-# Staking Engineer (DevOps)
+---
+layout: default_noheader
+---
+
+# DevOps Engineer (👨🏻‍💻 Staking Engineer 👩🏻‍💻)
 
 ## Job description
 
-Looking for a multiskilled DevOps Engineer to join our team to help configure, maintain and automate our infrastructure for Staking, focused primarily on Ethereum 2.0. We would like to fully develop and automate our staking solution, with proper monitoring and fault tolerance infrastructure to minimize the risks of protocol penalties.
+Looking for a **multiskilled DevOps Engineer** to join our team to help configure, maintain and automate our infrastructure for Staking, focused primarily on Ethereum 2.0. We would like to fully develop and automate our staking solution, with proper monitoring and fault tolerance infrastructure to minimize the risks of protocol penalties.
 
 If you are interested in scaling up your career while helping the Ethereum network to scale and transition to Proof of Stake (PoS), this role is for you.
 
-This is a full-time remote-first position, with team members in Toronto and Montreal, Canada.
+This is a **full-time remote-first position**, with team members in Toronto and Montreal, Canada.
 
 You will report to the Chief Technology Officer and work closely with the whole team. It is crucial that you are comfortable working in an unstructured environment and self motivated to seek out problems and solutions while multitasking.
-
-### Company mission
-
-[Ether Capital](https://www.ethcap.co/) strives to be the single biggest Ether (ETH) accumulator in the capital markets. We plan to generate an attractive yield off our balance by participating in Ethereum network infrastructure. We intend to use the net proceeds to develop unique IP for the crypto ecosystem and traditional finance.
-
-Ether Capital is a publicly traded company based in Toronto, listed on the NEO Exchange under the ticker "[ETHC](https://www.neo.inc/en/live/security-activity/ETHC)".
-
-<img src="./ethcap.jpeg" alt="drawing" width="200"/>
-
 
 ## Responsibilities
 
@@ -27,7 +22,6 @@ Ether Capital is a publicly traded company based in Toronto, listed on the NEO E
 -   R&D on the recent alpha releases (PoS, Beacon chain merge and post-merge tooling)
 -   Collaborate on technical content pieces and explainers on the subject of staking
 -   Own functionality and scalability features by taking responsibility from inception to deployment
-
 
 
 ## Qualifications
@@ -58,16 +52,24 @@ Ether Capital is a publicly traded company based in Toronto, listed on the NEO E
 
 ## Compensation
 
--   Salary: $100.69K+ 
+-   Salary: $100.69K+ 🤑 
 -   Stock options and bonus
--   Working for a publicly traded company (ETHC, known for helping launch the world's first Bitcoin and Ethereum ETFs)
--   Remote first team (Canadian residence preferred), task-based with flexible hours
+-   Working for a publicly traded company (🏦[ETHC](https://www.neo.inc/en/live/security-activity/ETHC), known for helping launch the world's first Bitcoin and Ethereum ETFs, and the first company to stake $50 million on Ethereum 2.0)
+-   Remote first team (Canadian 🇨🇦 residence preferred), task-based with flexible hours
 -   One of the first 10 employees
 
-## How to apply
-Please send an email to `jobs@ethcap.co` and include:
+## ↳ How to apply ↲
+Please send an email to  `jobs@ethcap.co` and include:
 
 - CV / Resume / Website
 - Socials (Twitter, Linkedin, Github, etc)
 - A paragraph on why this position and why you (a.k.a cover letter)
 
+
+## Company mission
+
+[Ether Capital](https://www.ethcap.co/) strives to be the single biggest Ether (ETH) accumulator in the capital markets. We plan to generate an attractive yield off our balance by participating in Ethereum network infrastructure. We intend to use the net proceeds to develop unique IP for the crypto ecosystem and traditional finance.
+
+Ether Capital is a publicly traded company based in Toronto, listed on the NEO Exchange under the ticker "[ETHC](https://www.neo.inc/en/live/security-activity/ETHC)".
+
+<img src="./ethcap.jpeg" alt="drawing" width="200"/>
