@@ -1,5 +1,6 @@
 ---
 layout: default_noheader
+title: "DevOps Engineer (👨🏻‍💻 Staking Engineer 👩🏻‍💻)"
 ---
 
 # DevOps Engineer (👨🏻‍💻 Staking Engineer 👩🏻‍💻)
