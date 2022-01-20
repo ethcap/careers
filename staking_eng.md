@@ -60,7 +60,7 @@ You will report to the Chief Technology Officer and work closely with the whole 
 -   One of the first 10 employees
 
 ## ↳ How to apply ↲
-Please send an email to  `jobs@ethcap.co` and include:
+Please send an email to  [jobs@ethcap.co](mailto:jobs@ethcap.co?subject=DevOps%20role&body=gm%0A%0A%20%5BA%20paragraph%20about%20yourself%20and%20why%20this%20role%5D%0A%0ASocials%3A%0A-%20Github%3A%0A-%20Twitter%3A%0A-%20Website%20%2F%20blog%20%2F%20etc%0A%0A%0A%5BDon't%20forget%20to%20attach%20or%20include%20your%20CV%20here%5D%0A%0A%0A) and include:
 
 - CV / Resume / Website
 - Socials (Twitter, Linkedin, Github, etc)
