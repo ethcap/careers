@@ -1,6 +1,8 @@
 ---
 layout: default_noheader
 title: "DevOps Engineer (👨🏻‍💻 Staking Engineer 👩🏻‍💻)"
+shortlink: https://bit.ly/ethcapdevops
+
 ---
 
 # DevOps Engineer (👨🏻‍💻 Staking Engineer 👩🏻‍💻)
