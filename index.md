@@ -5,7 +5,7 @@ layout: default_noheader
 # Careers
 
 - [DevOps (Staking) Engineer](./staking_eng.md)
-- [Director of Finance](https://www.linkedin.com/jobs/view/2871077092)
+- [Controller](https://www.linkedin.com/jobs/view/3106531274/)
 
 # Company mission
 
