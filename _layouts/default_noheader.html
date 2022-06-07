@@ -48,9 +48,11 @@
       </section>
     </div>
 
-    <a href="mailto:jobs@ethcap.co?subject=DevOps%20role&body=gm%0A%0A%20%5BA%20paragraph%20about%20yourself%20and%20why%20this%20role%5D%0A%0ASocials%3A%0A-%20Github%3A%0A-%20Twitter%3A%0A-%20Website%20%2F%20blog%20%2F%20etc%0A%0A%0A%5BDon't%20forget%20to%20attach%20or%20include%20your%20CV%20here%5D%0A%0A%0A" class="float">
+    {% if page.jobTitle %}
+    <a target="_blanket" href="mailto:jobs@ethcap.co?subject= {{ page.jobTitle }} &body=gm%0A%0A%20%5BA%20paragraph%20about%20yourself%20and%20why%20this%20role%5D%0A%0ASocials%3A%0A-%20Github%3A%0A-%20Twitter%3A%0A-%20Website%20%2F%20blog%20%2F%20etc%0A%0A%0A%5BDon't%20forget%20to%20attach%20or%20include%20your%20CV%20here%5D%0A%0A%0A" class="float">
       🅐ℙⓅ🄻ʸ
       </a>
+    {% endif %}
 
   </body>
   

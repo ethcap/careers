@@ -8,7 +8,7 @@ twitter:
   username: ethcap
   card: summary
 
-logo: ethcap.jpeg
+logo: ./ethcap.jpeg
 
 description: <a href="https://www.ethcap.co/">Ether Capital</a> strives to be the single biggest Ether (ETH) accumulator in the capital markets.
 

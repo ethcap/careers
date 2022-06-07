@@ -2,7 +2,7 @@
 layout: default_noheader
 title: "DevOps Engineer (👨🏻‍💻 Staking Engineer 👩🏻‍💻)"
 shortlink: https://bit.ly/ethcapdevops
-
+jobTitle: "DevOps (Staking Eng)"
 ---
 
 # DevOps Engineer (👨🏻‍💻 Staking Engineer 👩🏻‍💻)
@@ -80,4 +80,4 @@ Please send an email to  [jobs@ethcap.co](mailto:jobs@ethcap.co?subject=DevOps%2
 
 Ether Capital is a publicly traded company based in Toronto, listed on the NEO Exchange under the ticker "[ETHC](https://www.neo.inc/en/live/security-activity/ETHC)".
 
-<img src="./ethcap.jpeg" alt="drawing" width="200"/>
+<img src="./ethcap_logo.gif" alt="drawing" width="200"/>
