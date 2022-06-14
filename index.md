@@ -7,7 +7,7 @@ jobTitle: "Apply"
 # Careers
 
 - [DevOps (Staking) Engineer](./staking_eng.md)
-- [Controller](https://www.linkedin.com/jobs/view/3106531274/)
+- [Controller](https://www.linkedin.com/jobs/view/3125154111/)
 
 # Company mission
 
